@@ -24,19 +24,3 @@ El diagrama generado se verá así (GitHub renderiza automáticamente Mermaid):
 
 ---
 
-### **Versión alternativa con más detalle (opcional)**  
-Si quieres incluir direcciones IP y flujos de tráfico:  
-```markdown
-```mermaid
-graph TB
-    subgraph Red Aislada [🛡️ Red Virtual (192.168.56.0/24)]
-        A[Kali Linux\n192.168.56.10] -->|Escaneo/ataques| B[Windows 10\n192.168.56.20]
-        A -->|Envía tráfico malicioso| C[Ubuntu Server\n192.168.56.30]
-        C -->|Monitorea logs| D[(Splunk\nSIEM)]
-        C -->|Analiza tráfico| E[(Suricata\nIDS)]
-        C -->|Captura paquetes| F[(Wireshark)]
-    end
-
-    style A fill:#ff9999,stroke:#333
-    style B fill:#99ccff,stroke:#333
-    style C fill:#99ff99,stroke:#333
