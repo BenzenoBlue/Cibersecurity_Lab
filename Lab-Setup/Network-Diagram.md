@@ -1,5 +1,4 @@
 # 🔒 Diagrama de Red del Laboratorio Blue Team
-
 ```mermaid
 graph LR
     subgraph Red Aislada [🔗 Red Interna (VirtualBox)]
