@@ -5,7 +5,8 @@
 ### **Resultado visual**  
 El diagrama generado se verá así (GitHub renderiza automáticamente Mermaid):  
 
-![Diagrama de Red](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbiAgICBzdWJncmFwaCBSZWQgQXNpbGFkYSBb4oKNIFJlZCBJbnRlcm5hIChWaXJ0dWFsQm94KV1cbiAgICAgICAgZGlyZWN0aW9uIExSXG4gICAgICAgIEFbS2FsaSBMaW51eF0gLS0-IEJbV2luZG93cyAxMF1cbiAgICAgICAgQSAtLT4gQ1tVYnVudHUgU2VydmVyXVxuICAgICAgICBDIC0tPiBEW1NwbHVua11cbiAgICAgICAgQyAtLT4gRVtTdXJpY2F0YV1cbiAgICAgICAgQyAtLT4gRltXaXJlc2hhcmtdXG4gICAgZW5kXG5cbiAgICBzdHlsZSBBIGZpbGw6I2ZmOTk5OSxzdHJva2U6IzMzMyxzdHJva2Utd2lkdGg6MnB4XG4gICAgc3R5bGUgQiBmaWxsOiM5OWNjZmYsc3Ryb2tlOiMzMzMsc3Ryb2tlLXdpZHRoOjJweFxuICAgIHN0eWxlIEMgZmlsbDojOTlmZjk5LHN0cm9rZTojMzMzLHN0cm9rZS13aWR0aDoycHgiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)
+![Diagrama de Red]
+![Untitled diagram-2025-02-09-194320](https://github.com/user-attachments/assets/333a665b-58a3-42ba-b9d1-775930f3ff72)
 
 ---
 
