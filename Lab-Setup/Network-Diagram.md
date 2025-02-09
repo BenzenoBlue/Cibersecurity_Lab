@@ -1,7 +1,8 @@
 # 🔒 Diagrama de Red del Laboratorio Blue Team
+
 ```mermaid
 graph LR
-    subgraph Red Aislada [🔗 Red Interna (VirtualBox)]
+    subgraph Red Aislada [Red Interna (VirtualBox)]
         direction LR
         A[Kali Linux] --> B[Windows 10]
         A --> C[Ubuntu Server]
