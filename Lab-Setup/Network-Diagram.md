@@ -5,7 +5,7 @@
 ### **Resultado visual**  
 El diagrama generado se verá así (GitHub renderiza automáticamente Mermaid):  
 
-![Diagrama de Red]
+[Diagrama de Red]
 ![Untitled diagram-2025-02-09-194320](https://github.com/user-attachments/assets/333a665b-58a3-42ba-b9d1-775930f3ff72)
 
 ---
