@@ -19,7 +19,7 @@
   
 
 3. **IPs**:  
-   - Si has asignado IPs estáticas en tel lab.  
+   - Se han asignado IPs estáticas en el lab.  
 
 ---
 
