@@ -1,7 +1,18 @@
 # Cibersecurity_Lab
 
 Laboratorio Blue Team para practicar detección de amenazas, respuesta a incidentes y hardening de sistemas
+# 🛡️ Cybersecurity Blue Team Lab
 
+Laboratorio virtual para practicar detección de amenazas, respuesta a incidentes y hardening.
+
+## 🔍 Últimos Escenarios
+| Escenario               | Herramientas Usadas       | Informe                          |
+|-------------------------|---------------------------|----------------------------------|
+| Detección de Phishing   | Splunk, GoPhish, Wireshark| [Ver informe](Scenarios/Phishing-Simulation/Incident-Report.md) |
+| Análisis de Malware     | Cuckoo Sandbox, YARA      | [Ver análisis](Scenarios/Malware-Analysis/) |
+
+
+ 
 # 🛡️ Cybersecurity Blue Team Lab
 
 Laboratorio virtual para practicar habilidades defensivas en ciberseguridad, usando VirtualBox, Splunk, y herramientas de código abierto.
